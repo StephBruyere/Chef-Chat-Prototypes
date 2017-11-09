@@ -1,0 +1,28 @@
+{
+  "name": "chefchat",
+  "version": "1.0.0",
+  "description": "Post, edit, and discuss your favorite recipes!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChefChat/ChefChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChefChat/ChefChat/issues"
+  },
+  "homepage": "https://github.com/ChefChat/ChefChat#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "mysql2": "^1.4.2",
+    "react-anime": "^2.0.1",
+    "sequelize": "^4.22.5"
+  },
+  "devDependencies": {
+    "less": "^2.7.3"
+  }
+}
